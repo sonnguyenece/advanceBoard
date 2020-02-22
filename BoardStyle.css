@@ -1,0 +1,20 @@
+table{
+    margin: auto;
+}
+.Black{
+    background-color: black;
+    width: 80px;
+    height: 80px;
+}
+.White{
+    background-color: white;
+    width: 80px;
+    height: 80px;
+}
+.BorderBoard{
+    margin: auto;
+    padding-bottom: 10px;
+    width: 700px;
+    height: 700;
+    background-color: orange;
+}
